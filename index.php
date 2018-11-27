@@ -1,34 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>About Me</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-</head>
-<body>
-
-<nav class="navbar navbar-expand-sm bg-light">
-  <ul class="navbar-nav">
-    <li class="nav-item">
-      <a class="nav-link" href="#">Aboud Me</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">CV</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Business</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Contact</a>
-    </li>
-  </ul>
-</nav>
-<br>
-
+<php 
+include "navbar.html";
+?>
 <div class="container-fluid">
   <h3>Md.Al-Helal</h3>
   <p>I am currently in 4th year student of Computer Science and Engineering, University of Dhaka. My hall is Dr. Muhammad Shahidullah Hall. I am from Rangpur. I have completed my HSC from Carmichael College, Rangpur and SSC from Moyenpur High School, Mithapukur, Rangpur</p>
